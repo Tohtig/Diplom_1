@@ -58,6 +58,12 @@
                         </goals>
                     </execution>
                 </executions>
+                <configuration>
+                    <excludes>
+                        <exclude>praktikum/Praktikum.class</exclude>
+                        <exclude>praktikum/Database.class</exclude>
+                    </excludes>
+                </configuration>
             </plugin>
         </plugins>
     </build>

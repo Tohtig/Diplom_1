@@ -24,3 +24,4 @@
 7. В файле pom.xml нет ничего лишнего.
 
 Как сдать первое задание: https://code.s3.yandex.net/qa-automation-engineer/java/cheatsheets/paid-track/diplom/upload-task-1.pdf
+Методическое пособие: https://praktikum.notion.site/Java-797a8c7a96d8479497034053b481ac46
